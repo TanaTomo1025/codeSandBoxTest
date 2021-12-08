@@ -1,5 +1,9 @@
 import "./styles.css";
 
+console.error("test2");
+console.warn("test2");
+console.info("info");
+
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla Tomo
 !!</h1>
