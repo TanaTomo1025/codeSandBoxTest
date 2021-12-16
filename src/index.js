@@ -14,5 +14,6 @@ document.getElementById("app").innerHTML = `
 </div>
 <div>
   codesandboxの検証
+  ローカルから追加
 </div
 `;
